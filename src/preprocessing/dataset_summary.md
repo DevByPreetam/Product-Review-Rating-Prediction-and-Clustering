@@ -151,8 +151,8 @@ Repeated review texts were not removed.
 | Description | Number of Records |
 |---|---:|
 | Original records | 28,332 |
-| Records retained | To be updated |
-| Records removed | To be updated |
+| Records retained | 28,332 |
+| Records removed | 0 |
 
 The retained and removed counts will be updated using the final dataset preparation output.
 
