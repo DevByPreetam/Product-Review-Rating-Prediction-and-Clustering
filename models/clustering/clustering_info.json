@@ -1,0 +1,19 @@
+{
+    "model": "KMeans",
+    "n_clusters": 3,
+    "random_state": 42,
+    "n_init": 10,
+    "tfidf_max_features": 5000,
+    "tfidf_ngram_range": [
+        1,
+        2
+    ],
+    "svd_components": 100,
+    "explained_variance": 0.2977900458684149,
+    "total_reviews": 28311,
+    "cluster_distribution": {
+        "0": 1828,
+        "1": 8107,
+        "2": 18376
+    }
+}
